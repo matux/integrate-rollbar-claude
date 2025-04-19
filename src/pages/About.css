@@ -1,0 +1,24 @@
+.about-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered-content {
+  text-align: center;
+}
+
+.centered-content p {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.back-link {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
